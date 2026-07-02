@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Osama Kutit 👋
 
-<!--
-**osamakutit/osamakutit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer, Project Manager, and Co-Founder at Widespheres.
 
-Here are some ideas to get you started:
+I work on building scalable web, mobile, SaaS, and AI-powered business solutions, with experience in managing software teams and turning ideas into practical digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+* Full-Stack Web Development
+* Laravel & PHP Development
+* React Frontend Development
+* Mobile App Development
+* SaaS Product Planning
+* AI-Powered Business Solutions
+* Project Management & Technical Team Leadership
+
+## Tech Stack
+
+* PHP / Laravel
+* JavaScript / TypeScript
+* React
+* MySQL
+* REST APIs
+* Git / GitHub
+* Flutter
+* Python
+
+## Currently Focused On
+
+* SaaS platforms
+* ERP / CRM systems
+* AI-assisted software products
+* Scalable business web applications
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/osamakutit
+* Company: Widespheres
