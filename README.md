@@ -56,9 +56,9 @@ My current stack includes:
 ## 💻 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,laravel,php,nodejs,mysql,flutter,python,git,github&theme=light" alt="My Skills" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&hide_border=true" alt="Osama's GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com/?user=osamakutit&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakNum=333333&sideNums=333333&currStreakLabel=0A66C2&sideLabels=333333&dates=333333&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### Frontend
