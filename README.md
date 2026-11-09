@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://widespheres.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Osama+Kutit+👋;Full-Stack+Developer;Project+Manager;Co-Founder+at+Widespheres" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Osama+Kutit;Full-Stack+Developer;Project+Manager;Co-Founder+at+Widespheres" alt="Typing SVG" />
   </a>
 </h1>
 
