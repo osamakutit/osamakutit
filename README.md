@@ -96,7 +96,7 @@ Our focus is on delivering practical, scalable, and business-oriented software s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=7e49c3&icon_color=7e49c3&text_color=333333&bg_color=ffffff&hide_border=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=7e49c3&icon_color=7e49c3&text_color=333333&bg_color=ffffff&hide_border=true&custom_title=GitHub%20Stats&v=1" height="195" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=osamakutit&stroke=7E49C3&ring=7E49C3&fire=7E49C3&currStreakNum=333333&sideNums=333333&currStreakLabel=7E49C3&sideLabels=333333&dates=333333&hide_border=true" height="195" alt="GitHub Streak" />
 </p>
 
