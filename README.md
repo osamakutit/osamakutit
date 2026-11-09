@@ -1,8 +1,8 @@
-<h1 align="center">
+<div align="center">
   <a href="https://widespheres.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=7E49C3&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Osama+Kutit;Full-Stack+Developer;Project+Manager;Co-Founder+at+Widespheres" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=7E49C3&center=true&vCenter=true&width=800&lines=Hi,+I'm+Osama+Kutit;Full-Stack+Developer;Project+Manager;Co-Founder+at+Widespheres" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 <h3 align="center">Full-Stack Developer | Project Manager | Co-Founder at Widespheres</h3>
 
@@ -55,11 +55,11 @@ My current stack includes:
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,laravel,php,nodejs,mysql,flutter,python,git,github&theme=light" alt="My Skills" />
   </a>
-</p>
+</div>
 
 ### Frontend
 React, TypeScript, JavaScript, TanStack Router, TanStack Query, HTML, CSS, Tailwind CSS
@@ -95,14 +95,10 @@ Our focus is on delivering practical, scalable, and business-oriented software s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/osamakutit">
-    <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=7E49C3&icon_color=7E49C3&text_color=333333&bg_color=ffffff&hide_border=true" alt="Osama's GitHub Stats" />
-  </a>
-  <a href="https://github.com/osamakutit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamakutit&stroke=7E49C3&ring=7E49C3&fire=7E49C3&currStreakNum=333333&sideNums=333333&currStreakLabel=7E49C3&sideLabels=333333&dates=333333&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=7E49C3&icon_color=7E49C3&text_color=333333&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=osamakutit&stroke=7E49C3&ring=7E49C3&fire=7E49C3&currStreakNum=333333&sideNums=333333&currStreakLabel=7E49C3&sideLabels=333333&dates=333333&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -119,10 +115,7 @@ Our focus is on delivering practical, scalable, and business-oriented software s
 
 I'm using GitHub to showcase selected projects, experiments, and technical work related to full-stack development, SaaS products, AI tools, and business software systems.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamakutit/osamakutit/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamakutit/osamakutit/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osamakutit/osamakutit/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/osamakutit/osamakutit/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Light" />
+  <img src="https://raw.githubusercontent.com/osamakutit/osamakutit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Dark" />
+</div>
