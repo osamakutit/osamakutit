@@ -96,9 +96,12 @@ Our focus is on delivering practical, scalable, and business-oriented software s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=7E49C3&icon_color=7E49C3&text_color=333333&bg_color=ffffff&hide_border=true" alt="Osama's GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com/?user=osamakutit&stroke=7E49C3&ring=7E49C3&fire=7E49C3&currStreakNum=333333&sideNums=333333&currStreakLabel=7E49C3&sideLabels=333333&dates=333333&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/osamakutit">
+    <img src="https://github-readme-stats.vercel.app/api?username=osamakutit&show_icons=true&title_color=7E49C3&icon_color=7E49C3&text_color=333333&bg_color=ffffff&hide_border=true" alt="Osama's GitHub Stats" />
+  </a>
+  <a href="https://github.com/osamakutit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamakutit&stroke=7E49C3&ring=7E49C3&fire=7E49C3&currStreakNum=333333&sideNums=333333&currStreakLabel=7E49C3&sideLabels=333333&dates=333333&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -118,8 +121,8 @@ I'm using GitHub to showcase selected projects, experiments, and technical work 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamakutit/osamakutit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamakutit/osamakutit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osamakutit/osamakutit/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamakutit/osamakutit/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamakutit/osamakutit/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osamakutit/osamakutit/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </p>
