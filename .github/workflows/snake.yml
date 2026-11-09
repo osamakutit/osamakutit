@@ -26,7 +26,7 @@ jobs:
           github_user_name: osamakutit
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-snake-dark.svg?color_snake=#ff5a3c&color_dots=#161b22,#e8dbf7,#b38ee3,#7e49c3,#4a157d
+            "dist/github-contribution-grid-snake-dark.svg?color_snake=#ff5a3c&color_dots=#161b22,#e8dbf7,#b38ee3,#7e49c3,#4a157d"
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
