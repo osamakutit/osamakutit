@@ -120,6 +120,3 @@ Our focus is on delivering practical, scalable, and business-oriented software s
 ## GitHub Focus
 
 I'm using GitHub to showcase selected projects, experiments, and technical work related to full-stack development, SaaS products, AI tools, and business software systems.
-
-
-هاد ملف الريدمي تبعي الحالي عطيني التعديلات عليه
